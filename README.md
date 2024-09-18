@@ -1,4 +1,4 @@
-# SurfNow 🌊🏄
+# SurfNow 🏄
 
 Hey there fellow wave chaser. Welcome to **SurfNow**, the app that keeps you in the loop with the latest surf conditions so you never miss a good wave. 
 Whether you're a seasoned surfer or just starting out, SurfNow has got your back. Let's dive in!
